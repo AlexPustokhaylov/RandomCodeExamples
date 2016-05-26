@@ -1,2 +1,2 @@
 # RandomCodeExamples
-Code examplaes from my old game project
+Code examples from my old game project
